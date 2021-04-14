@@ -1,6 +1,8 @@
-Profissional de computação procurando emprego.
-Completamente fluente em ingles, incluindo linguagem tecnica.
-Anos de experiencia pessoal com sistemas Linux, e consequentemente, conhecimento fundamental de Back-End de Servers e Networking 
+/Profissional de computação procurando emprego./
+
+Completamente fluente em *Inglês*, incluindo linguagem tecnica.
+
+Anos de experiencia pessoal com sistemas *Linux*, e consequentemente, conhecimento fundamental de /Back-End/ de Servers e Networking.
 Capaz de programar em:
 - C
 - C# (.NET framework)
